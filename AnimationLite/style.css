@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.sec {
+    width: 1200px;
+    margin: 0 auto;
+    height: 600px;
+    background:grey;
+}
+
+.one {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.image {
+    position: relative;
+    width: 10%;
+    height: 10%;
+}
